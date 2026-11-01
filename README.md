@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 Mi actividad
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Jonax17&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true"
-  alt="Gráfica de actividad de Jonax17 en GitHub"
-  width="95%"
-/>
-
 <br>
 
 **Siempre aprendiendo, una línea de código a la vez.** ✨
